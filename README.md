@@ -21,4 +21,4 @@ https://medium.com/@tranhoang030998/sparkify-the-prediction-of-customer-churn-f9
 
 ## Data
 
-This project use data from  that I already uploaded
+This project use data from  ```mini_sparkify_event_data.json```
